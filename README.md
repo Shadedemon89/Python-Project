@@ -1,5 +1,3 @@
-# Python-Project
-
 # 🐍 Python Project
 
 ## 📖 About
